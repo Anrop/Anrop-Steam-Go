@@ -1,0 +1,36 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/aoisensi/steam4go",
+			"repository": "https://github.com/aoisensi/steam4go",
+			"revision": "de16a3486745b8526cb68eb6e21d8e006b4568ec",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/gorilla/handlers",
+			"repository": "https://github.com/gorilla/handlers",
+			"revision": "a4d79d4487c2430a17d9dc8a1f74d1a6ed6908ca",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/gorilla/mux",
+			"repository": "https://github.com/gorilla/mux",
+			"revision": "8c683ee571b6ee7ffc9f1cafd13103c422e71cbf",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/joho/godotenv",
+			"repository": "https://github.com/joho/godotenv",
+			"revision": "325433c502d409f3c3dc820098fb0cfe38d98dc7",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/joho/godotenv/autoload",
+			"repository": "https://github.com/joho/godotenv",
+			"revision": "325433c502d409f3c3dc820098fb0cfe38d98dc7",
+			"branch": "master",
+			"path": "/autoload"
+		}
+	]
+}
